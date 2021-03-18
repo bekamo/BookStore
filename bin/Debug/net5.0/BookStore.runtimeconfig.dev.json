@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\BEKA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BEKA\\.nuget\\packages"
+    ]
+  }
+}
